@@ -1,2 +1,0 @@
-# starks-animation
-animated button
