@@ -13,5 +13,9 @@ I'm looking forward to contributing my skills and experiences.
 - [@YashPandey](https://github.com/YashPandey7)
 
 
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://yashpandey.netlify.app/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-pandey-b89b65172/) 
 
 
